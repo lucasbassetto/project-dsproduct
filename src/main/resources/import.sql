@@ -1,0 +1,3 @@
+INSERT INTO tb_pedido (date) VALUES ('2023-07-21T11:00:00Z');
+INSERT INTO tb_pedido (date) VALUES ('2023-07-21T13:04:00Z');
+INSERT INTO tb_pedido (date) VALUES ('2023-07-21T15:20:00Z');
